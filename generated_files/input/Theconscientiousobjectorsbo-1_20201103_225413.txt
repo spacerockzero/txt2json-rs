@@ -1,0 +1,725 @@
+Theconscientiousobjectorsbo-1_20201103_225413.txt
+
+-------------
+
+{"return_as_list": true, "include_prefix": false, "model_name": "1558M", "length": 1024, "temperature": 0.8, "top_k": 80, "top_p": 0.9, "truncate": "<|endoftext|>", "nsamples": 20, "batch_size": 4, "prefix": "The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.\n\nThe entity didn't die from the nukes, but from an \"infinite bullet\" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, \"this is not your world anymore, you're from another one, also totally fucked.\" This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.\n\n\"It\u2026 stopped, right?\" The human asked of his friend, who at this point was still under the collective light of his headpiece.\n\n\"Yeah, but now the final countdown for time manipulator\u2026 is waiting for you. The moment before that countdown starts, the fireworks will start.\"\n\n\"Yeah\u2026 we might not make it then.\"\n\nAs the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.\n\nThe blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the \"other world\" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.\n\nThe freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.\n\nThe biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?\n\nAll the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?\n\nThe Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.\n\nThe Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But\u2026 something had happened.\n\nIn the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, \"let us live, let us live.\" She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.\n\n\"\u2026 two minutes of three minutes and seven seconds.\"\n\nFrom the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.\n\n\"Ah! There he is! No! Noooo!\"\n\nOne of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen"}
+
+-------------
+
+src:The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen in
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen solid
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen solid
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen solid
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen in
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen,
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen with
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen solid
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen,
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen,
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen,
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
+
+-------------
+
+The conscientious objectors boarded the large ship and headed out to live on the ocean. A year later, the Entity's weaponized AI sent tactical nukes to all the world's military bases at once. Each atom created a tornado over a large area. Almost everyone was killed, except the lone conscientious objector and two thousand survivors from the Navy's base on the arctic planet she had come from. The entity that was attacked with the nukes died from the injuries it suffered during its escape from the nuclear base. But the main building of the craft was destroyed. As it was still at a great distance from its last target, the projectile didn't make it through the atomized wasteland of ground.
+
+The entity didn't die from the nukes, but from an "infinite bullet" that the General ordered. It sent a message to every possible person connected to the latter's stronghold on the planet. According to the message, "this is not your world anymore, you're from another one, also totally fucked." This could not have been more ominous to the conscientious objector than this message, which ended in an uncontrollable burst of blue, followed by a countdown.
+
+"It… stopped, right?" The human asked of his friend, who at this point was still under the collective light of his headpiece.
+
+"Yeah, but now the final countdown for time manipulator… is waiting for you. The moment before that countdown starts, the fireworks will start."
+
+"Yeah… we might not make it then."
+
+As the concerned pair started walking out of the massive building of rubble, the sky began to lighten and brighten. A large group of the freighters and my townpeople were on their way to the neighboring planet. The elderly man stared at the sky, seeing the possible truth about the entity's warning.
+
+The blue man of his collection, the immortal Emil, hadn't been lying. The freighters and citizens were on their way to the "other world" but this new planet was just a piece of wasteland from a long time ago. The townsfolk had probably not made a decision, since the surrounding areas were still in ruins from the Entity attack. Those who got out of the burning buildings in the base camp were already starting to claim the world's sky as their own. Even if they lost the sky, they could put it somewhere for others to see through clouds.
+
+The freighters and residents didn't know what was about to happen to the group of people that would break their way out of the base camp and eventually reach the blue world. That wasn't the big question anymore.
+
+The biggest question was how was this other world created? Although there had been a few clues, it still wasn't enough to understand what kind of big plan would make something like this. Was this world just a piece of rubble that existed because the old world lost its energy?
+
+All the important questions were left unanswered, for now. Only the major questions were left. What exactly was happening? What did this entity want with them? And how was they going to escape the blue world?
+
+The Solari Collective sent an expedition to the surface world through a scientific probe to be able to leave its subsurface plane and reach the blue world in one piece. While this expedition couldn't do much for the World-Mother of the The Entity, the Exorcists had spotted some cities on the surface world and it was eventually decided to return there. The latter group was more used to this world's existence and what it would do to them. They had a big contingency plan for that.
+
+The Combine were ready to deal with them as well, of course. Now that the freighters and their people had landed, they would send in a large convoy of Combine soldiers, leaving the EX-COM ahead to bring those people to an easy execution. But… something had happened.
+
+In the city of Risinglight, a woman surrounded by a group of the citizens had suddenly found the courage to act. She was crying, "let us live, let us live." She was thinking about her world, she was thinking about her friends, but only one thought was in her head: let them live. But she was killed instantly. Instead of being put into an execution place, she was placed in a secret facility in the ruins of the World-Mother's base.
+
+"… two minutes of three minutes and seven seconds."
+
+From the display in the control room, the security officer on duty recognized the situation. Soon, the World-Mother would regain consciousness and be tempted to destroy Earth. Since that would only strengthen the resistance, they had to escape that time.
+
+"Ah! There he is! No! Noooo!"
+
+One of the soldiers, who seemed to be a lesser version of the captain of the freighter, approached the freighter and checked the passenger's pod. The main door was left open and the other four container rooms were frozen.
